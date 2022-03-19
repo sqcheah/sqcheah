@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+School Projects
+2021
+1. INTI HRMS(FYP) - MERN 
+https://github.com/sqcheah/intihrms-fyp
+2. ShuttleBusCentral (SBC) - PHP / C#
+https://github.com/sqcheah/sbc
+3. Breast Cancer Dashboard - PHP
+https://github.com/sqcheah/breastcancerdashboard
+
+2019
+1. Tutor App - Angular (FYP)
+https://github.com/sqcheah/tutorapp
+
 <!--
 **sqcheah/sqcheah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
