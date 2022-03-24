@@ -11,7 +11,7 @@ https://github.com/sqcheah/sbc
 https://github.com/sqcheah/breastcancerdashboard
 
 2019
-1. Tutor App - Angular (FYP)
+1. Tutor Web App - Angular (FYP)
 https://github.com/sqcheah/tutorapp
 
 <!--
