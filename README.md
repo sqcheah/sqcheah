@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-School Projects
+Past School Projects
 
 2021
 1. INTI HRMS(FYP) - MERN 
