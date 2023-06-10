@@ -1,18 +1,20 @@
 ### Hi there 👋
 
-Past School Projects
+#### Familiar techs
+Laravel, Vue
 
-2021
-1. INTI HRMS(FYP) - MERN 
-https://github.com/sqcheah/intihrms-fyp
-2. ShuttleBusCentral (SBC) - PHP / C#
-https://github.com/sqcheah/sbc
-3. Breast Cancer Dashboard - PHP
-https://github.com/sqcheah/breastcancerdashboard
+#### Current Project
+1. [My Collection of Tools](https://starstone.netlify.app/)
 
-2019
-1. Tutor Web App - Angular (FYP)
-https://github.com/sqcheah/tutorapp
+
+#### Past School Projects
+1. [INTI HRMS(FYP) - MERN](https://github.com/sqcheah/intihrms-fyp) 
+
+2. [ShuttleBusCentral (SBC) - PHP / C#](https://github.com/sqcheah/sbc)
+
+3. [Breast Cancer Dashboard - PHP](https://github.com/sqcheah/breastcancerdashboard)
+
+4. [Tutor Web App - Angular (FYP)](https://github.com/sqcheah/tutorapp)
 
 <!--
 **sqcheah/sqcheah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
