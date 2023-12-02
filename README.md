@@ -2,7 +2,7 @@
 
 #### Familiar techs
 Laravel, Vue
-
+<!--
 #### Current Project
 1. [My Collection of Tools](https://starstone.netlify.app/)
 
@@ -16,7 +16,7 @@ Laravel, Vue
 
 4. [Tutor Web App - Angular (FYP)](https://github.com/sqcheah/tutorapp)
 
-<!--
+
 **sqcheah/sqcheah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
